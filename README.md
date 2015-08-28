@@ -6,3 +6,5 @@ This repository is for:
 * Practising Git commands
 
 Edit of file after committed into repository
+
+Another edit
